@@ -22,13 +22,13 @@
 ### 🌐 Connect with Me  
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/your-linkedin" target="blank">
+  <a href="https://www.linkedin.com/in/aakash0007/" target="_blank">
     <img align="center" src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://www.instagram.com/your-instagram" target="blank">
+  <a href="https://www.instagram.com/aakxsh.11/" target="_blank">
     <img align="center" src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="mailto:aakash@example.com">
+  <a href="mailto:Aakashh.1109@gmail.com" target="_blank">
     <img align="center" src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
@@ -46,8 +46,8 @@
 ### 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aakash&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aakash&layout=compact&theme=radical" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=aakash&show_icons=true&theme=radical" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aakash&layout=compact&theme=radical" alt="Top Languages" height="165"/>
 </p>
 
 ---
@@ -58,4 +58,3 @@
 ---
 
 ⭐️ *From [Aakash](https://github.com/aakash)* — *Building meaningful digital experiences powered by AI.*
-
